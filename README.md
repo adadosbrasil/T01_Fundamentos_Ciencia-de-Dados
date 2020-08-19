@@ -7,4 +7,5 @@ E aqui você pode conferir os slides das aulas (:
 - [T01E03 - O Big Data e a Ciência de Dados](https://github.com/adadosbrasil/T01_Fundamentos_Ciencia-de-Dados/blob/master/Slides-Aulas/T01E03%20-%20O%20Big%20Data%20e%20a%20Ci%C3%AAncia%20de%20Dados.pdf)
 - [T01E04 - O Papel do Machine Learning](https://github.com/adadosbrasil/T01_Fundamentos_Ciencia-de-Dados/blob/master/Slides-Aulas/T01E04%20-%20O%20Papel%20do%20Machine%20Learning.pdf)
 - [T01E05 - Áreas que compões a Ciência de Dados](https://github.com/adadosbrasil/T01_Fundamentos_Ciencia-de-Dados/blob/master/Slides-Aulas/T01E05%20-%20%C3%81reas%20que%20comp%C3%B5es%20a%20Ci%C3%AAncia%20de%20Dados.pdf)
+- [T01E06 - Os Profissionais de Dados](https://github.com/adadosbrasil/T01_Fundamentos_Ciencia-de-Dados/blob/master/Slides-Aulas/T01E06%20-%20Os%20Profissionais%20de%20Dados.pdf)
 
